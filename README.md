@@ -34,15 +34,9 @@ To run this project on local machine follow these steps
 ## Resource
 - [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-
 ## Demo
 
-Insert gif or link to demo
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Demo](https://github.com/adithyaravi12/movie-recommendation-system/blob/main/demo.gif)
 
 
 ## Reference
@@ -54,12 +48,6 @@ Insert gif or link to demo
 ## Feedback
 
 I greatly value feedback as an essential tool for my growth. If you have any feedback to share, please share it at adithyaravi0312@gmail.com. Your insights are immensely appreciated and contribute to my continuous improvement.
-
-
-
-
-
-
 
 
 ## 🔗 Links
