@@ -39,6 +39,13 @@ To run this project on local machine follow these steps
 ![Demo](https://github.com/adithyaravi12/movie-recommendation-system/blob/main/demo.gif)
 
 
+## Drawbacks and Future Works
+
+- **Limited to Description:** One limitation of the current system is that it generates recommendations solely based on the description of movies and TV series, without considering their genres. Need to work on the model to take into account both the description and the genre. This would result in more refined and context-aware recommendations, catering to a wider range of user preferences.
+- **Dataset Dependency:** The recommender currently relies on the titles present in the dataset. Any input title not found in the dataset yields no recommendations. To overcome this limitation and offer a seamless experience, I need to train the model on a new and a bigger dataset. This expansion would ensure that users receive recommendations for a broader array of titles, both popular and obscure.
+- **Enhanced User Interface:** While the current user interface serves its purpose, there's immense potential for improvement. Future work could focus on making the UI more interactive and intuitive. Incorporating features like user profiles, ratings, and user history could significantly enhance user engagement and personalization, elevating the overall user experience.
+
+
 ## Reference
 - [Introduction To Recommender Systems- 1: Content-Based Filtering And Collaborative Filtering](https://towardsdatascience.com/introduction-to-recommender-systems-1-971bd274f421)
 - [Build A Machine Learning Web App From Scratch](https://www.youtube.com/watch?v=xl0N7tHiwlw)
